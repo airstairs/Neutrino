@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Neutrino/app/src/main/assets/index.html",
+      "selection": {
+        "end": {
+          "column": 17,
+          "index": 2718,
+          "line": 89
+        },
+        "start": {
+          "column": 17,
+          "index": 2718,
+          "line": 89
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Neutrino/app/src/main/assets/index.html"
+}
