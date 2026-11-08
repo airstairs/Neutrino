@@ -3,13 +3,11 @@
 
 
 
+<img src="ic.png" style="width: 49px;">  
 
-![ic](ic.png)    
+<img src="recording.gif" style="width: 288px;">  
 
-
-
-
-![rec](recording.gif)   
+<img src="windows.gif"  style="width: 799px;">  
 
 
 
